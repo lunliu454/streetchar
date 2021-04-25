@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619331845293.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E7E620E1",
+    "lastKnownWriteTime" : 1619331495,
+    "last_content_update" : 1619331495,
+    "path" : "~/R/R/202104_final/streetchar/R/road_width.R",
+    "project_path" : "R/road_width.R",
+    "properties" : {
+        "cursorPosition" : "17,10",
+        "scrollLine" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

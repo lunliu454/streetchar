@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619331648448.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2836387814",
+    "id" : "54FB783E",
+    "lastKnownWriteTime" : 1619331833,
+    "last_content_update" : 1619331833386,
+    "path" : "~/R/R/202104_final/streetchar/R/building_volume.R",
+    "project_path" : "R/building_volume.R",
+    "properties" : {
+        "cursorPosition" : "18,12",
+        "scrollLine" : "15"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
